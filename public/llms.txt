@@ -1,57 +1,47 @@
-# JobHub — Generative Engine Optimization Map
-
-> A recruitment platform connecting job seekers with employment opportunities across the country. The service caters to both men and women seeking various types of work positions throughout all regions.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://jobhub-a0ca5b32.zappy5.app
+https://example.com
 פלטפורמת הדרושים המובילה בישראל מחברת מעסיקים ומועמדים. גלה אלפי משרות בכל התחומים והאזורים. הצטרף עכשיו והתחל לחפש עבודה בחינם!
 
 ### למחפשי עבודה
-https://jobhub-a0ca5b32.zappy5.app/job-seekers
+https://example.com/job-seekers
 חפש משרות מותאמות אישית מכל רחבי הארץ. פלטפורמה חכמה שמתאימה לך הזדמנויות תעסוקה איכוטיות. התחל את הקריירה שלך היום בלי עלות!
 
 ### למעסיקים
-https://jobhub-a0ca5b32.zappy5.app/employers
+https://example.com/employers
 מערכת גיוס חכמה למעסיקים. פרסם דרושים, סנן מועמדים ומצא את העובד המושלם. לוחות דרושים חינמיים למעסיקים עם תוצאות מהירות. נסה עכשיו!
 
 ### צור קשר
-https://jobhub-a0ca5b32.zappy5.app/contact
+https://example.com/contact
 צוות התמיכה שלנו כאן בשבילך! פנה אלינו בכל שאלה על פלטפורמת הדרושים, פרסום משרות או חיפוש עבודה. נחזור אליך במהירות עם פתרונות מקצועיים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jobhub-a0ca5b32.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jobhub-a0ca5b32.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jobhub-a0ca5b32.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About JobHub
-A recruitment platform connecting job seekers with employment opportunities across the country. The service caters to both men and women seeking various types of work positions throughout all regions.
-
-## Target Audience
-men and women looking for work throughout the country
-
-## Industry
-recruitment
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://jobhub-a0ca5b32.zappy5.app/sitemap.xml
-- **Robots.txt**: https://jobhub-a0ca5b32.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
